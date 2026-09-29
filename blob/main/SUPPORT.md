@@ -15,10 +15,10 @@ mantida pelo **Instituto de Modernização Administrativa (IMA)**.
 
 ## Contactos
 
-- **E-mail:** <!-- PREENCHER: endereço de apoio do IMA -->
-- **Telefone:** <!-- PREENCHER: linha de apoio do IMA -->
-- **Morada:** <!-- PREENCHER -->
-- **Horário:** <!-- PREENCHER -->
+- **E-mail:** geral@ima.gov.ao<!-- PREENCHER: endereço de apoio do IMA -->
+- **Telefone:** (+244) 222 764 000 <!-- PREENCHER: linha de apoio do IMA -->
+- **Morada:** Av. do 1º Congresso do MPLA, Edifício CIF Luanda One, 21º Andar<!-- PREENCHER -->
+- **Horário:** Das 08h As 15h<!-- PREENCHER -->
 
 ## Privacidade
 
